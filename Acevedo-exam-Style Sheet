@@ -1,0 +1,78 @@
+@charset"UTF-8";
+
+@font-face{
+	font-family:'Major_shift';
+	src:url(../fonts/major_shift-webfont.woff);
+}
+
+header{
+	background-image:url("../img/bg.jpg");
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+header h1{
+	position: relative;
+	top:50px;
+	left:300px;
+}
+
+/*footer{ I DONT KNOW WHY THIS ISNT WORKING!!!
+	float:none;
+	background-image:url("../img/bg.jpg");
+	padding-bottom: 1em;
+	padding-top: 1em;
+}*/
+
+.colonel{/*header cat photo*/
+	border: 5px solid #003300;
+}
+
+.background{/*header background photo*/
+	position:relative;
+	height: 100px;
+}
+
+.sidebar{
+	float:right;
+	width: 500px;
+	font-size: 12px;
+}
+
+.main{
+	float:left;
+	width: 800px;
+}
+
+.about{/*about me photo in main*/
+	float:left;
+	margin-right: 22px;
+}
+
+.article2{/*biography photo in main*/
+	float:left;
+	margin-right: 22px;
+}
+
+nav{/*links on header*/
+	float: right;
+	display:inline;
+	position: relative;
+	font-color: #003300;	
+}
+
+div{
+	color:#003300;
+}
+
+h1, h2, h3{
+	font-color:#003300;
+	font-family:'Major_shift';
+}
+
+.page{
+	border-top:10px solid #003300;
+	border-left: 5px;
+	border-bottom: 10px;
+	border-right: 5px
+}
