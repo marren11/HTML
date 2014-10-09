@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Acevedo Exam</title>
+	<link rel="stylesheet" href="css/base.css" />
+</head>
+<body>
+<div>
+	<id=page/>
+	<header>
+		<h1>COLONEL MEOW</h1>
+		<img class="colonel" src="E:\FALL 2014\MIS3450\exam\Acevedo-exam\Acevedo-exam\img\logo.jpg" alt="Colonel Meow" width="200" height="150">
+		<img class="background"src="E:\FALL 2014\MIS3450\exam\Acevedo-exam\Acevedo-exam\img\bg.jpg" alt="Background">
+		<nav role="navigation">
+		<a href="https://twitter.com/colonel_meow"rel="external" title="Twitter"> Twitter</a>
+		<a href="http://colonelmeow.tumblr.com/"rel="external" title="Tumblr"> Tumblr</a>
+		<a href="http://www.youtube.com/user/ColonelMeow"rel="external" title="Youtube"> Youtube</a>
+		<a href="https://www.facebook.com/colonelmeowinthecity#"rel="external" title="Facebook"> Facebook</a>
+		</nav>	
+	</header>
+	<id=main/>
+	<article class="main">
+		<h2>WELCOME</h2>
+
+		<p>I'm a grumpy, fluffy cat that wants to rule the world. I like treaties. I have a golden retriever named Boots who is my #1 Minion. Suck it. Hollywood</p>
+
+		
+		<img class= "about" src="E:\FALL 2014\MIS3450\exam\Acevedo-exam\Acevedo-exam\img\article1.jpg" alt="About me">
+		<h2>ABOUT ME</h2>
+		<p>I'm a Cat. I have the unfortunate ability to poop in my fur. Sometimes when I'm scared I open my eyes really wide and then fall asleep. I like to go on walks with my leash, but when that gets hard I sit down. I like my friend Boots, a stupid golden retriever who never know when I'm sneaking up. My favorite thing to do is eat. When I'm not eating, I feel like I forgot to eat so I go  back to eat again. I'm really good at staring, and if I stare too long I forget what I'm doing and fall asleep. I'm really fluffy so I cough up a lot of hair balls. That scares me, so much so, that I will meow until someone comes and holds me. I'm the apartment police. So if you are going to the bathroom I might scratch and meow at the door to say, "who's in there? open up!" I like my butt scratched.</p>
+
+		
+		<img class="article2" src="E:\FALL 2014\MIS3450\exam\Acevedo-exam\Acevedo-exam\img\article2.jpg" alt="Biography">
+		<h2>BIOGRAPHY</h2>
+		<p>I was abandoned on the side of the road and rescued by the Himalayan and Persian Society. I went to the doctor and was cleared for adoption through Petco where I met my Master, Anne Marie Avey. She cuddles me and feeds me and even sings to me which makes me happy. So happy I fall asleep.</p>
+		
+
+		<h2>AWARDS</h2>
+
+		<p>I've been recognized by the presitigious column, The Daily What, which shared what I already knew...how great I am. Yes, editor Kristen Martine took one look at me and could not resist. The rest is history. The Minion Mutiny continues.</p>
+	</article>
+	<aside class="sidebar">
+		<h3>MY MINION BOOTS</h3>
+		<p>Boots loves to phote bomb many of my photos. This is actually one in which I allowed him to pose with me.</p>
+		<img src="E:\FALL 2014\MIS3450\exam\Acevedo-exam\Acevedo-exam\img\boots.jpg" alt="Boots">
+
+		<h3>MY NEMESIS GRUMPY CAT</h3>
+		<p>Grumpy cat thinks just because he is very ugly and grumpy that he will get more hits than me. He is WRONG.</p>
+		<img src="E:\FALL 2014\MIS3450\exam\Acevedo-exam\Acevedo-exam\img\grumpy.jpg" alt="Nemesis">
+	</aside>
+	<footer>
+		<p>Email me: colonel@meow.com</p>
+	</footer>
+</div>
+</body>
+</html> 
